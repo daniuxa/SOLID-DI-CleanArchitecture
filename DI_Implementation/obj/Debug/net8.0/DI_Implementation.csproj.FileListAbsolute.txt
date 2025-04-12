@@ -1,0 +1,14 @@
+C:\Users\danyils\OneDrive - Nice Systems Ltd\Desktop\My projects\My projects\3 - SOLID\DI_Implementation\bin\Debug\net8.0\DI_Implementation.exe
+C:\Users\danyils\OneDrive - Nice Systems Ltd\Desktop\My projects\My projects\3 - SOLID\DI_Implementation\bin\Debug\net8.0\DI_Implementation.deps.json
+C:\Users\danyils\OneDrive - Nice Systems Ltd\Desktop\My projects\My projects\3 - SOLID\DI_Implementation\bin\Debug\net8.0\DI_Implementation.runtimeconfig.json
+C:\Users\danyils\OneDrive - Nice Systems Ltd\Desktop\My projects\My projects\3 - SOLID\DI_Implementation\bin\Debug\net8.0\DI_Implementation.dll
+C:\Users\danyils\OneDrive - Nice Systems Ltd\Desktop\My projects\My projects\3 - SOLID\DI_Implementation\bin\Debug\net8.0\DI_Implementation.pdb
+C:\Users\danyils\OneDrive - Nice Systems Ltd\Desktop\My projects\My projects\3 - SOLID\DI_Implementation\obj\Debug\net8.0\DI_Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danyils\OneDrive - Nice Systems Ltd\Desktop\My projects\My projects\3 - SOLID\DI_Implementation\obj\Debug\net8.0\DI_Implementation.AssemblyInfoInputs.cache
+C:\Users\danyils\OneDrive - Nice Systems Ltd\Desktop\My projects\My projects\3 - SOLID\DI_Implementation\obj\Debug\net8.0\DI_Implementation.AssemblyInfo.cs
+C:\Users\danyils\OneDrive - Nice Systems Ltd\Desktop\My projects\My projects\3 - SOLID\DI_Implementation\obj\Debug\net8.0\DI_Implementation.csproj.CoreCompileInputs.cache
+C:\Users\danyils\OneDrive - Nice Systems Ltd\Desktop\My projects\My projects\3 - SOLID\DI_Implementation\obj\Debug\net8.0\DI_Implementation.dll
+C:\Users\danyils\OneDrive - Nice Systems Ltd\Desktop\My projects\My projects\3 - SOLID\DI_Implementation\obj\Debug\net8.0\refint\DI_Implementation.dll
+C:\Users\danyils\OneDrive - Nice Systems Ltd\Desktop\My projects\My projects\3 - SOLID\DI_Implementation\obj\Debug\net8.0\DI_Implementation.pdb
+C:\Users\danyils\OneDrive - Nice Systems Ltd\Desktop\My projects\My projects\3 - SOLID\DI_Implementation\obj\Debug\net8.0\DI_Implementation.genruntimeconfig.cache
+C:\Users\danyils\OneDrive - Nice Systems Ltd\Desktop\My projects\My projects\3 - SOLID\DI_Implementation\obj\Debug\net8.0\ref\DI_Implementation.dll
